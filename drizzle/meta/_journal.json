@@ -15,6 +15,13 @@
       "when": 1708783563767,
       "tag": "0001_superb_scorpion",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1708787624435,
+      "tag": "0002_overconfident_sheva_callister",
+      "breakpoints": true
     }
   ]
 }
